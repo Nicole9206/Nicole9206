@@ -5,9 +5,14 @@ Mi nombre es Nicole Latorre. Analista programador computacional.
 
 ### Estudios 🌱
 - Cursando el ultimo semestre de analista programador computacional.
-- Curso de python con tkiner
-- Curso de django 
-- Reactiv
+- Python con tkiner en vs code 
+- Django en vs code
+- React
+- Laravel 
+- Prestashop
+- Wordpress 
+- HTML, CSS y JScript
+- Photoshop
 
 
 

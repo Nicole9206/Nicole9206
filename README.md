@@ -15,7 +15,8 @@ Me encuentro en el 4to semestre y último de analista programador computacional,
 - HTML, CSS y JScript
 - Ionic
 
-Por otra parte, durante estos 2 años de pandemia he realizado los siguientes cursos:
+### Cursos 🌱
+Durante estos 2 años de pandemia he realizado los siguientes cursos:
 
 - Python con tkiner en vs code 
 - React

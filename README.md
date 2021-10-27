@@ -8,12 +8,12 @@ Aquí encontrarás una gran variedad de proyectos realizados en cursos online, t
 
 ### Estudios 🌱
 Me encuentro en el 4to semestre y último de analista programador computacional, en el cual, obtuve conocimientos básicos en los siguientes  lenguajes y  uso de programas:
--Python en vs code, orientada a objetos
--BD Oracle
--Java en Netbeans, orientada a objetos
--Django en vs code
--HTML, CSS y JScript
--Ionic
+- Python en vs code, orientada a objetos
+- BD Oracle
+- Java en Netbeans, orientada a objetos
+- Django en vs code
+- HTML, CSS y JScript
+- Ionic
 
 Por otra parte, durante estos 2 años de pandemia he realizado los siguientes cursos:
 

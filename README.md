@@ -1,4 +1,15 @@
-### Hi there 👋
+###Hola👋 Bienvenido a mi perfil en GitHub 
+
+Mi nombre es Nicole Latorre. Analista programador computacional.
+"Cree en tus posibilidades, progama el resto" 
+
+### Estudios 🌱
+** Cursando el ultimo semestre de analista programador computacional.
+** Curso de python con tkiner
+** Curso de django 
+** Reactiv
+
+
 
 <!--
 **Nicole9206/Nicole9206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

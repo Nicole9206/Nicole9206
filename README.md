@@ -18,7 +18,6 @@ Durante estos 2 años de pandemia he realizado los siguientes cursos:
 
 - Python con tkiner en vs code 
 - React
-- Prestashop
 - Photoshop
 
 

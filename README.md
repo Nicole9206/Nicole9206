@@ -1,7 +1,7 @@
 ### Hola👋 Bienvenido a mi perfil en GitHub 
 
-Mi nombre es Nicole Latorre. Analista programador computacional.
-"Cree en tus posibilidades, progama el resto" 
+Mi nombre es Nicole Latorre y soy programadora.
+"Cree en tus posibilidades y progama el resto" 
 
 ### Estudios 🌱
 - Cursando el ultimo semestre de analista programador computacional.

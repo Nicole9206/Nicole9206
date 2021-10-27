@@ -12,7 +12,6 @@ Me encuentro en el 4to semestre y último de analista programador computacional,
 - BD Oracle
 - Django en vs code
 - HTML, CSS y JScript
-- Ionic
 
 ### Cursos 📖
 Durante estos 2 años de pandemia he realizado los siguientes cursos:

@@ -17,7 +17,7 @@ Me encuentro en el 4to semestre y último de analista programador computacional,
 Durante estos 2 años de pandemia he realizado los siguientes cursos:
 
 - Python con tkiner en vs code 
-- React
+- React(en curso)
 - Photoshop
 
 

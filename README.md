@@ -12,6 +12,8 @@ Me encuentro en el 5to semestre y último de analista programador computacional,
 - BD Oracle
 - Django, Booststrap en vs code
 - HTML, CSS y JScript
+- Java 
+- Ionic
 
 ### Cursos 📖
 Durante estos 2 años de pandemia he realizado los siguientes cursos:

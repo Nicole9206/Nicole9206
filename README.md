@@ -4,7 +4,7 @@ Mi nombre es Nicole Latorre y soy programadora.
 *"Cree en tus posibilidades y progama el resto"*
 
 ### Repositorios🚀
-Aquí encontrarás una gran variedad de proyectos realizados en cursos online, tutoriales (llamados como practica) y mis propias creaciones.  
+Aquí encontrarás una gran variedad de proyectos realizados en cursos online, tutoriales (llamados como práctica) y mis propias creaciones.  
 
 ### Estudios 🌱
 Me encuentro en el 5to semestre y último de analista programador computacional, en el cual, obtuve conocimientos en los siguientes  lenguajes y  uso de programas:

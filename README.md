@@ -1,10 +1,10 @@
 ### Hola👋 
 Bienvenido a mi perfil en GitHub. 
-Mi nombre es Nicole Latorre y soy programadora.
+Mi nombre es Nicole Latorre y desarrolladora junior.
 *"Cree en tus posibilidades y progama el resto"*
 
 ### Repositorios🚀
-Aquí encontrarás una gran variedad de proyectos realizados en cursos online, tutoriales (llamados como p-) y mis propias creaciones.  
+Aquí encontrarás una gran variedad de proyectos realizados en cursos online, tutoriales (llamados como P-) y mis propias creaciones.  
 
 ### Estudios 🌱
 Me encuentro en el 5to semestre y último de analista programador computacional, en el cual, obtuve conocimientos en los siguientes  lenguajes y  uso de programas:

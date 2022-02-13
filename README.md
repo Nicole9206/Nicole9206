@@ -1,6 +1,6 @@
 ### Hola👋 
 Bienvenido a mi perfil en GitHub. 
-Mi nombre es Nicole Latorre y desarrolladora junior.
+Mi nombre es Nicole Latorre y soy desarrolladora Junior.
 *"Cree en tus posibilidades y progama el resto"*
 
 ### Repositorios🚀

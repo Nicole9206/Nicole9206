@@ -7,7 +7,7 @@ Mi nombre es Nicole Latorre y soy desarrolladora Junior.
 Aquí encontrarás una gran variedad de proyectos realizados en cursos online, tutoriales (llamados como P-) y mis propias creaciones.  
 
 ### Estudios 🌱
-Me encuentro en el 5to semestre y último de analista programador computacional, en el cual, obtuve conocimientos en los siguientes  lenguajes y  uso de programas:
+Me encuentro en el 5to semestre y último de analista programador computacional en Duoc UC, en el cual, obtuve conocimientos en los siguientes  lenguajes y  uso de programas:
 - Python en vs code, orientada a objetos
 - BD Oracle
 - Django, Booststrap en vs code
